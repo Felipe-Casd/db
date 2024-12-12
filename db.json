@@ -404,28 +404,6 @@
       "cpf": "1",
       "dataNascimento": "2010-10-10",
       "grupoRisco": "Não pertence a grupo de risco"
-    },
-    {
-      "id": "5521bed5-1476-419e-8342-832ae601efa7",
-      "nome": "caio",
-      "sobrenome": " jorge",
-      "senha": "1",
-      "email": "123@gmail.com",
-      "cep": "123",
-      "cpf": "123",
-      "dataNascimento": "2005-05-05",
-      "grupoRisco": "Não pertence a grupo de risco"
-    },
-    {
-      "id": "f29f49f1-989f-451b-bd1c-726728b2f9ed",
-      "nome": "sara",
-      "sobrenome": "bianca",
-      "senha": "sara",
-      "email": "sara@gmail.com",
-      "cep": "02",
-      "cpf": "01",
-      "dataNascimento": "2000-01-01",
-      "grupoRisco": "Não pertence a grupo de risco"
     }
   ]
 }
